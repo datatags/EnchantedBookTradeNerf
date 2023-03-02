@@ -1,0 +1,5 @@
+name: EnchantedBookTradeNerf
+version: @version@
+author: Datatags
+main: me.datatags.enchantedbooktradenerf.EnchantedBookTradeNerf
+api-version: 1.13

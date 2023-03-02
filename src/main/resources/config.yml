@@ -1,0 +1,3 @@
+# The maximum enchanted book level that should be allowed in villager trades.
+# If a villager has a trade with a level greater than this, it will be capped at this value.
+max level: 5
